@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Raffaele Scaringi / Ph.D. Student"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Raffaele Scaringi"
 description              : &description "Ph.D Student in Computer Science and Mathematics"
@@ -21,14 +21,14 @@ repository               : "Faiail/Faiail.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpeg"
+  name             : "Raffaele Scaringi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Trani, Apulia, Italy"
+  employer         : "University of Bari Aldo Moro"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "raffaele.scaringi@uniba.it" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
