@@ -14,5 +14,8 @@ I'm working in the [CILab](https://sites.google.com/site/cilabuniba/home) labora
 
 
 
-# Research Interests
-My research interests include **Computer Vision**, **Deep Learning**, **Knowledge Graph Learning** and **Multimodal Representation Learning** applied in the field of *Digital Humanities*, with a particular focus on *Visual Arts*.
+# Research Interests 📖
+My research interests include **Computer Vision** 💻👁️, **Deep Learning**🧠, and **Knowledge Graph Learning**🌐applied in the field of *Digital Humanities*, with a particular focus on *Visual Arts*.
+
+# News 📰
+
