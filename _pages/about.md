@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-# Raffaele Scaringi
+
 I'm Raffaele Scaringi, a 3^rd year Ph.D Studen in Computer Science and Mathematics at Department of Computer Science, University of Bari Aldo Moro, Bari, Apulia, Italy.
 I'm working in the [CILab](https://sites.google.com/site/cilabuniba/home) laboratory on my Ph.D. project named "Automatic Analysis of Cultural Heritage via Artificial Intelligence", co-funded by [Exprivia](https://www.exprivia.it/it/).
 
