@@ -2,9 +2,9 @@
 title: "Pixel Art"
 collection: teaching
 type: "Middle School Course"
-permalink: /teaching/2024-corato
+permalink: /teaching/2024_corato
 venue: "Istituto Onnicomprensivo Tattoli-De Gasperi"
-date: 2024-05
+date: 2024-05-01
 location: "Corato, BA, Italy"
 ---
 
