@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Pixel Art"
 collection: teaching
-type: "Undergraduate course"
+type: "Middle School Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Istituto Onnicomprensivo Tattoli-De Gasperi"
 date: 2014-01-01
-location: "City, Country"
+location: "Corato, BA, Italy"
 ---
 
 Introduction
