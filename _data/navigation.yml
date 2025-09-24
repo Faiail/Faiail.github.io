@@ -7,13 +7,15 @@
 main:
   - title: "Publications"
     url: /publications/
+    visible: true
 
   - title: "Talks"
     url: /talks/    
     visible: false
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
+    visible: true
     
   - title: "Portfolio"
     url: /portfolio/
@@ -25,6 +27,7 @@ main:
     
   - title: "CV"
     url: /cv/
+    visible: true
     
   - title: "Guide"
     visible: false
