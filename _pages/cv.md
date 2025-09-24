@@ -12,13 +12,13 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science and Mathematics, University of Bari Aldo Moro, 2022 - present
-* M.S. in Data Science, University of Bari Aldo Moro, **Final Mark:** 110/110 with hons, 2022
-* B.S. in Computer Science, University of Bari Aldo Moro, **Final Mark:** 110/110 with hons, 2020
+* M.S. in Data Science, University of Bari Aldo Moro, **Final Mark:** 110/110 with hons, 2020 - 2022
+* B.S. in Computer Science, University of Bari Aldo Moro, **Final Mark:** 110/110 with hons, 2017 - 2020
 
 Work experience
 ======
 * May 2024: Teaching special course "Pixel Art"
-  * Middle School ``Istituto Onnicomprensivo Tattoli-De Gasperi'' - Corato, BA, Italy
+  * Middle School ``*Istituto Onnicomprensivo Tattoli-De Gasperi*'' - Corato, BA, Italy
   * Computer Science
   * Generative Models for digital artistic content production
   
